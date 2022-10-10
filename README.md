@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @davg505
-- 👀 I’m interested in js, python and data science
+- 👀 I’m interested in java, python and data science
 - 🌱 I’m currently learning js and data science
 - 📫 How to reach me Linkedin - www.linkedin.com/in/david-gonçalves-08127437
 
