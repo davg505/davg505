@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @davg505
-- 👀 I’m interested in java, python and data science
-- 🌱 I’m currently learning js and data science
+- 👀 I’m interested in java, React.js and Spring boot
+- 🌱 I’m currently learning js, microservice and fullstack 
 - 📫 How to reach me Linkedin - www.linkedin.com/in/david-gonçalves-08127437
 
 <!---
